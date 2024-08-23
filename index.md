@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-## Favorite parts of CS193
+Favorite parts of CS193
 - The TA's :)
 - The Physics Buiding (kidding)
 - The campus (before it turns into a desolate hellscape)
