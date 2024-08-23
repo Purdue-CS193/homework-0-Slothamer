@@ -15,8 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+## Favorite parts of CS193
+- The TA's :)
+- The Physics Buiding (kidding)
+- The campus (before it turns into a desolate hellscape)
 
 1. Numbered
 2. List
